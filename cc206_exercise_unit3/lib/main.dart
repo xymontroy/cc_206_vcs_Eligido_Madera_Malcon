@@ -1,7 +1,3 @@
-//{Simon Troy Eligido}: {ayaw papilde}
-//{Ailen Grace Malcon}: {Kun nd kaya, Kayanon}
-//{Jannah Madera}: {So near and yet so far.}
-
 import 'package:flutter/material.dart';
 
 void main() {
