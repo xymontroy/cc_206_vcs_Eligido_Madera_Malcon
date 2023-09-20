@@ -1,7 +1,3 @@
-//{Simon Troy Eligido}: {Dont problem the problem, let the problem, problem you}
-//{Ailen Grace Malcon}: {Kayanon}
-//{Jannah Madera}: {So near and yet so far.}
-
 import 'package:flutter/material.dart';
 
 void main() {
