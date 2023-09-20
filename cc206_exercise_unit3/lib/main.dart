@@ -1,6 +1,6 @@
 //{Simon Troy Eligido}: {ayaw papilde}
 //{Ailen Grace Malcon}: {Kayanon}
-//{Jannah Madera}: {Try and try}
+//{Jannah Madera}: {So near and yet so far.}
 
 import 'package:flutter/material.dart';
 
