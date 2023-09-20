@@ -1,4 +1,4 @@
-//{Simon Troy Eligido}: {hala bira}
+//{Simon Troy Eligido}: {ayaw papilde}
 //{Ailen Grace Malcon}: {Kayanon}
 //{Jannah Madera}: {Try and try}
 
