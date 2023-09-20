@@ -1,4 +1,3 @@
-//{Simon Troy Eligido}: {dont problem the problem let the problem problem you}
 import 'package:flutter/material.dart';
 
 void main() {
