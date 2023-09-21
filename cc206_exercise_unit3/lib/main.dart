@@ -1,3 +1,4 @@
+//{Jannah Madera}: {Life is a journey, not a destination.Enjoy the ride.}
 //{Ailen Grace Malcon}: {Be kind to yourself and to others.}
 
 import 'package:flutter/material.dart';
