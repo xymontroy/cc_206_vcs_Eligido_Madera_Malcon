@@ -1,6 +1,6 @@
 //{Jannah Madera}: {Life is a journey, not a destination. Enjoy the ride}
 //{Ailen Grace Malcon}: {Be kind to yourself and to others. We are all in this together}
-
+//{Simon Troy Eligido}: {The only person you should compare yourself to is the person you were yesterday}
 
 import 'package:flutter/material.dart';
 
