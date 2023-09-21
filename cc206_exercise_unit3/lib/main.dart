@@ -1,6 +1,4 @@
-
-//{Life is a journey, not a destination. Enjoy the ride}
-
+//{Simon Troy Eligido}: {The only person you should compare yourself to is the person you were yesterday}
 import 'package:flutter/material.dart';
 
 void main() {
