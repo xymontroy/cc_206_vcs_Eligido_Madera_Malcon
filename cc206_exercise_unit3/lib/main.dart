@@ -1,6 +1,6 @@
-//{Simon Troy Eligido}: {Dont problem the problem, let the problem, problem you}
-//{Ailen Grace Malcon}: {KKun nd kaya,veriton.}
-//{Jannah Madera}: {So near and yet so far.}
+
+//{Ailen Grace Malcon}: {Be kind to yourself and to others. We are all in this together}
+
 
 import 'package:flutter/material.dart';
 
