@@ -1,4 +1,6 @@
-//{Simon Troy Eligido}: {Life is a journey, not a destination. Enjoy the ride}
+//{Simon Troy Eligido}: {ayaw papilde}
+//{Ailen Grace Malcon}: {dapat Kayanon}
+//{Jannah Madera}: {Try and try}
 
 import 'package:flutter/material.dart';
 
